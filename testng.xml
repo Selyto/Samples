@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+  
+<suite name="Amazon.in" verbose="1" >
+  <test name="Amazon" >
+    <classes>
+           <class name="Test001"/>
+    </classes>
+  </test>
+</suite>
